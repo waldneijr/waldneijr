@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @waldneijr
 - 👀 I’m interested in technology, videogames, books, basketball.
-- 🌱 I’m currently learning web developtment.
+- 🌱 I’m currently learning web development.
 - 💞️ I’m looking to collaborate on everything I can!
 - 📫 How to reach me https://www.facebook.com/waldnei.junior.9
 
