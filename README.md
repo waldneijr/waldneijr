@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @waldneijr
-- 👀 I’m interested in technology, videogames, books, basketball.
+- 👀 I’m interested in technology, literature and music.
 - 🌱 I’m currently learning web development.
 - 💞️ I’m looking to collaborate on everything I can!
 - 📫 How to reach me https://www.linkedin.com/in/waldnei-junior-8386471a2/
