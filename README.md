@@ -2,7 +2,7 @@
 - 👀 I’m interested in technology, videogames, books, basketball.
 - 🌱 I’m currently learning web development.
 - 💞️ I’m looking to collaborate on everything I can!
-- 📫 How to reach me https://www.facebook.com/waldnei.junior.9
+- 📫 How to reach me https://www.linkedin.com/in/waldnei-junior-8386471a2/
 
 <!---
 waldneijr/waldneijr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
