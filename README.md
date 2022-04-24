@@ -37,7 +37,7 @@ Sou estudante de Ciência de Dados e de Análise e Desenvolvimento de Sistemas. 
 
  <div>
  <img align="center" alt="ghdss25-Linux" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-plain.svg">
- <img height="40" width="65" src="https://icones.pro/wp-content/uploads/2021/06/logo-windows-bleu.png"/>
+ <img height="65" width="65" src="https://icones.pro/wp-content/uploads/2021/06/logo-windows-bleu.png"/>
 
  
 </div>
