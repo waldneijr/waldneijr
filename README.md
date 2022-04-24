@@ -42,7 +42,7 @@ Sou estudante de Ciência de Dados e de Análise e Desenvolvimento de Sistemas. 
 
  ## 💻 Tecnologias que estou estudando
 <div>
-<img height="65" width="65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg"/>
+<img height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg"/>
 </div>
 
 
