@@ -15,8 +15,8 @@ Sou estudante de Ciência de Dados e de Análise e Desenvolvimento de Sistemas. 
 ## 💻 Tecnologias front-end que utilizo
 
  <div>
- <img height="180em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
- <img height="180em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
+ <img height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
+ <img height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
  </div>
  
  ## 💻 Tecnologias back-end que utilizo
