@@ -33,22 +33,10 @@ Sou estudante de Ciência de Dados e de Análise e Desenvolvimento de Sistemas. 
  
  
 
-## 💻 Estudando Atualmente
+ ## 💻 Sistemas Operacionais que utilizo
 
-<div style="display: inline_block"><br>
-  
-  <img align="center" alt="ghdss25-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="ghdss25-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="ghdss25-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  
-</div>
-
-
-### 💻 Usando atualmente Sistema Operacional
-
-<div style="display: inline_block"><br> 
-
-  <img align="center" alt="ghdss25-Linux" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-plain.svg">
-</div>
+ <div>
+ <img height="40" width="65" src="https://w7.pngwing.com/pngs/885/1004/png-transparent-linux-kernel-linux-distribution-filesystem-hierarchy-standard-smoothi-bird-linux-kernel.png"/>
+ </div>
 
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
