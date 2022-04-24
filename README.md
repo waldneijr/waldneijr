@@ -36,7 +36,7 @@ Sou estudante de Ciência de Dados e de Análise e Desenvolvimento de Sistemas. 
  ## 💻 Sistemas Operacionais que utilizo
 
  <div>
- <img height="40" width="65" src="https://w7.pngwing.com/pngs/885/1004/png-transparent-linux-kernel-linux-distribution-filesystem-hierarchy-standard-smoothi-bird-linux-kernel.png"/>
+ <img height="40" width="65" src="https://img2.gratispng.com/20180526/jai/kisspng-linux-tux-computer-icons-5b09f4805ac578.4336051515273790723718.jpg"/>
  </div>
 
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
