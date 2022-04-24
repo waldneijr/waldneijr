@@ -22,13 +22,13 @@ Sou estudante de Ciência de Dados e de Análise e Desenvolvimento de Sistemas. 
  ## 💻 Tecnologias back-end que utilizo
 
  <div>
- <img height="180em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
+ <img height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
  </div>
  
  ## 💻 Tecnologias de banco de dados que utilizo
 
  <div>
- <img height="180em" src="https://img2.gratispng.com/20180803/abq/kisspng-mysql-cluster-database-management-system-专-题-咖-啡-与-代-码-5b640d8b2a2e53.6067051415332837231728.jpg"/>
+ <img height="40" width="50" src="https://seeklogo.com/images/M/MySQL-logo-F6FF285A58-seeklogo.com.png"/>
  </div>
  
  
