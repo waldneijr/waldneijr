@@ -38,4 +38,5 @@ Sou estudante de Ciência de Dados e de Análise e Desenvolvimento de Sistemas. 
  <div>
  <img align="center" alt="ghdss25-Linux" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-plain.svg">
 </div>
+
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
