@@ -25,7 +25,7 @@ Sou estudante de Ciência de Dados e de Análise e Desenvolvimento de Sistemas. 
  <img height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
  </div>
  
- ## 💻 Tecnologias de banco de dados que utilizo
+ ## 💻 SGBDs que utilizo
 
  <div>
  <img height="40" width="65" src="https://seeklogo.com/images/M/MySQL-logo-F6FF285A58-seeklogo.com.png"/>
