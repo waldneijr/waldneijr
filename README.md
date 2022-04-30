@@ -43,7 +43,7 @@ Sou estudante de Ciência de Dados. Me interesso tanto por front-end quanto por 
 
  ## 💻 O que estou estudando atualmente
 <div>
-<img height="45" width="45" src="https://w7.pngwing.com/pngs/918/388/png-transparent-function-mathematics-formula-operator-precalculus-proposal-text-logo-numerical-digit.png"/>
+<img height="45" width="45" src="https://w7.pngwing.com/pngs/780/11/png-transparent-mathematics-mathematical-notation-computer-icons-mathematician-mathematics-angle-text-logo.png"/>
 </div>
 
 
