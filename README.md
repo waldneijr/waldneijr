@@ -23,6 +23,7 @@ Sou estudante de Ciência de Dados. Me interesso tanto por front-end quanto por 
 
  <div>
  <img height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
+  <img height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg"/>
  </div>
  
  ## 💻 SGBDs que utilizo
@@ -40,9 +41,9 @@ Sou estudante de Ciência de Dados. Me interesso tanto por front-end quanto por 
  <img align="center" height="40" width="40" src="https://icones.pro/wp-content/uploads/2021/06/logo-windows-bleu.png"/>
 </div>
 
- ## 💻 Tecnologias que estou estudando
+ ## 💻 O que estou estudando atualmente
 <div>
-<img height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg"/>
+<img height="45" width="45" src="https://w7.pngwing.com/pngs/918/388/png-transparent-function-mathematics-formula-operator-precalculus-proposal-text-logo-numerical-digit.png"/>
 </div>
 
 
