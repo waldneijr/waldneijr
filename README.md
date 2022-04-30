@@ -43,7 +43,7 @@ Sou estudante de Ciência de Dados. Me interesso tanto por front-end quanto por 
 
  ## 💻 O que estou estudando atualmente
 <div>
-<img height="45" width="45" src="https://cdn-icons-png.flaticon.com/512/5276/5276230.png/>
+<img height="45" width="45" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Icon_Mathematical_Plot.svg/768px-Icon_Mathematical_Plot.svg.png/>
 </div>
 
 ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
