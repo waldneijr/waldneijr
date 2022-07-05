@@ -23,7 +23,6 @@ Sou estudante de Ciência de Dados. Me interesso tanto por front-end quanto por 
 
  <div>
  <img height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
-  <img height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg"/>
  </div>
  
  ## 💻 SGBDs que utilizo
