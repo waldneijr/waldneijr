@@ -43,8 +43,9 @@ Sou estudante de Ciência de Dados. Me interesso tanto por front-end quanto por 
 
  ## 💻 O que estou estudando atualmente
 <div>
-<img align="center" alt="pré cálculo" height="50" width="50" src="https://cdn-icons-png.flaticon.com/512/746/746960.png">
-<img align="center" alt="probabilidade e estatística" height = "50" width="50" src="https://cdn-icons-png.flaticon.com/512/2278/2278983.png"
+ <img text align="center" alt="MySQL" height="40" width="65" src="https://seeklogo.com/images/M/MySQL-logo-F6FF285A58-seeklogo.com.png"/>
+
+<img align="center" alt="NoSQL" height = "40" width="50" hspace="15" src="https://sendgrid.com/wp-content/uploads/2014/05/nosql-text.png"/>
 </div>
 
 ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
