@@ -12,17 +12,12 @@
 
 Sou estudante de Ciência de Dados. Me interesso tanto por front-end quanto por back-end. Dedico meu tempo livre a música, literatura e estudo de línguas estrangeiras.
 
-## 💻 Tecnologias front-end que utilizo
-
- <div>
- <img height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
- <img height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
- </div>
- 
- ## 💻 Tecnologias back-end que utilizo
+ ## 💻 Linguagens de Programação que utilizo
 
  <div>
  <img height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
+ <img height="40" width="35" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/695px-C_Programming_Language.svg.png"/>
+
  </div>
  
  ## 💻 SGBDs que utilizo
@@ -31,20 +26,12 @@ Sou estudante de Ciência de Dados. Me interesso tanto por front-end quanto por 
  <img height="40" width="65" src="https://seeklogo.com/images/M/MySQL-logo-F6FF285A58-seeklogo.com.png"/>
  </div>
  
- 
 
  ## 💻 Sistemas Operacionais que utilizo
 
  <div>
  <img align="center" alt="ghdss25-Linux" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-plain.svg">
  <img align="center" height="40" width="40" src="https://icones.pro/wp-content/uploads/2021/06/logo-windows-bleu.png"/>
-</div>
-
- ## 💻 O que estou estudando atualmente
-<div>
- <img text align="center" alt="MySQL" height="40" width="65" src="https://seeklogo.com/images/M/MySQL-logo-F6FF285A58-seeklogo.com.png"/>
-
-<img align="center" alt="NoSQL" height = "40" width="50" hspace="15" src="https://sendgrid.com/wp-content/uploads/2014/05/nosql-text.png"/>
 </div>
 
 ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
