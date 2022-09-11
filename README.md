@@ -10,7 +10,7 @@
   
 ### 📖 Sobre mim
 
-Sou estudante de Ciência de Dados. Me interesso tanto por front-end quanto por back-end. Dedico meu tempo livre a música, literatura e estudo de línguas estrangeiras.
+Sou estudante de Ciência de Dados. Dedico meu tempo livre a música, literatura e estudo de línguas estrangeiras.
 
  ## 💻 Linguagens de Programação que utilizo
 
