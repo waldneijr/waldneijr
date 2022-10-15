@@ -6,7 +6,7 @@
   <a href="https://www.linkedin.com/in/waldnei-junior-8386471a2/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-### Seja bem vindo ao meu repositório! É aqui que eu coloco os meus projetos acadêmicos, fique à vontade para dar uma olhada caso tenha interesse.
+### Seja bem vindo ao meu repositório! É aqui que eu coloco os meus projetos, fique à vontade para dar uma olhada caso tenha interesse.
   
 ### 📖 Sobre mim
 
